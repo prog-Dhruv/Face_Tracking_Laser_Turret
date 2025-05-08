@@ -15,8 +15,8 @@ Think of it like a robotic camera that tries to keep a moving person in its view
 <li>FaceDetector Module – Used for detecting faces in the video (assumed as part of the code).</li>
 </ul>
 
-!Arduino(/arduino.jpg)
-!Turret(/turret.jpg)
+<img src="arduino.jpg">Arduino</img><br>
+<img src="turret.jpg">Turret</img>
 <br>
 <h2>Connecting to Arduino</h2>
 <ol>
