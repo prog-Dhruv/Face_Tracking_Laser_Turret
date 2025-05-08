@@ -65,6 +65,4 @@ Think of it like a robotic camera that tries to keep a moving person in its view
 <h3>Made by:</h3>
 <ul>
 <li>Dhruv Singh           <br><b>N292 70472200318</b></li>
-<li>Kabeer Choudhary      <br><b>N289 70472200315</b></li>
-<li>Prakhar Agarwal       <br><b>N262 70472200256</b></li>
 </ul>
